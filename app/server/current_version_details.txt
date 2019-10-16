@@ -1,0 +1,5 @@
+project start date
+Tue Oct 15 20:23:44 CDT 2019
+
+Dotnetcore version
+3.0.100
